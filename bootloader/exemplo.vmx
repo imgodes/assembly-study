@@ -1,0 +1,3 @@
+debugStub.listen.guest32="TRUE"
+debugStub.hideBreakpoints="TRUE"
+monitor.debugOnStartGuest32="TRUE"
